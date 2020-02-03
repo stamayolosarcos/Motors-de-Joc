@@ -1,0 +1,8 @@
+El nivel bueno es Level1, el otro es para hacer testing,
+Esta hecho todo lo obligatorio y adicionalmente:
+-Las plataformas ascensor
+-Las puertas con llave
+-Las puertas por monedas
+-El puzzle de bombillas
+-La estructuración del código
+-El uso de Git
